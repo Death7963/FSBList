@@ -1,6 +1,3 @@
-
-Name
-----
 acolyte_mask_use.fsb
 airplane_crashing.fsb
 airplane_fall_explosion_00.fsb
