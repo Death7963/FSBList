@@ -1,6 +1,3 @@
-
-Name
-----
 amb_day_int_00.fsb
 amb_day_int_01.fsb
 amb_day_int_02.fsb
