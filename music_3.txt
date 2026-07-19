@@ -1,6 +1,3 @@
-
-Name
-----
 dl_afterjade_death_loading.fsb
 dl_afterrahim_death_loading.fsb
 dl_afterrahim_death_second_music.fsb
