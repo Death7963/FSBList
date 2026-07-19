@@ -1,6 +1,3 @@
-
-Name
-----
 01_wind_city_metal_przesmyk.fsb
 02_wind_city_metal.fsb
 03_wind_sand.fsb
