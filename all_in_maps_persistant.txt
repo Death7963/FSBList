@@ -1,6 +1,3 @@
-
-Name
-----
 ai_ak47_x1_00.fsb
 ai_ak47_x1_01.fsb
 ai_ak47_x1_02.fsb
