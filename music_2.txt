@@ -1,6 +1,3 @@
-
-Name
-----
 dl_amb_elevator.fsb
 dl_amb_project_mayhem_second_floor.fsb
 dl_amb_project_mayhem.fsb
